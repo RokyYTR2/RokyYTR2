@@ -71,8 +71,3 @@
   <a href="https://www.tiktok.com/@meybayt"><img src="https://img.shields.io/badge/tiktok-0D1117?style=for-the-badge&logo=tiktok&logoColor=E5E5E5" /></a>
   <a href="https://www.npmjs.com/~meyba"><img src="https://img.shields.io/badge/npm-0D1117?style=for-the-badge&logo=npm&logoColor=F97362" /></a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RokyYTR2&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B7CF6&icon_color=38BDF8&text_color=A0A8B5" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RokyYTR2&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B7CF6&text_color=A0A8B5" height="150" />
-</p>
